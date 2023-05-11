@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning almost... almost nothing I'm a clean slate 
 - 💞️ I’m looking to collaborate on new educational and learning projects 
 - 📫 How to reach me ... I'm not sure yet 
-
+- Learning
 My store starts out with a tragic over egger oblivious first-time users... 
 
 I don't really know much about GitHub, I can merge, comment create pull request some times, But I want to learn a lot more. I originally started just by driving  
